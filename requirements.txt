@@ -1,0 +1,5 @@
+streamlit
+gpxpy
+folium
+streamlit-folium
+pandas

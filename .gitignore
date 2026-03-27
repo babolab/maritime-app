@@ -1,0 +1,9 @@
+.aider*
+.env
+*.png
+*.gif
+*.html
+__pycache__/
+*.pyc
+data/
+.streamlit/
