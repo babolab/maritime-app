@@ -14,7 +14,7 @@ from parsers import detect_and_parse_file, DriftData, VesselTrack
 from map_builder import build_static_map, build_full_trajectory_map, VESSEL_COLORS
 
 st.set_page_config(
-    page_title="Dérive & Trajectoires Maritimes",
+    page_title="Dérive & Trajectoires Maritimes - CROSS Jobourg",
     page_icon="🚢",
     layout="wide",
     initial_sidebar_state="expanded"
